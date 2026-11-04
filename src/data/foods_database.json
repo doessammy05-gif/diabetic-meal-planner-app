@@ -24,7 +24,7 @@
     "avg_cost_per_portion": 40
   },
   {
-    "name,": "Terere (Amaranth Leaves)",
+    "name": "Terere (Amaranth Leaves)",
     "gi": 15,
     "gl": "Low",
     "category": "Vegetable",
@@ -150,5 +150,181 @@
     "category": "Legume",
     "local": true,
     "avg_cost_per_portion": 30
+  },
+  {
+    "name": "Spinach",
+    "gi": 15,
+    "gl": "Low",
+    "category": "Vegetable",
+    "local": true,
+    "avg_cost_per_portion": 30
+  },
+  {
+    "name": "Broccoli",
+    "gi": 15,
+    "gl": "Low",
+    "category": "Vegetable",
+    "local": false,
+    "avg_cost_per_portion": 100
+  },
+  {
+    "name": "Cauliflower",
+    "gi": 15,
+    "gl": "Low",
+    "category": "Vegetable",
+    "local": false,
+    "avg_cost_per_portion": 100
+  },
+  {
+    "name": "Cabbage",
+    "gi": 15,
+    "gl": "Low",
+    "category": "Vegetable",
+    "local": true,
+    "avg_cost_per_portion": 20
+  },
+  {
+    "name": "Cucumber",
+    "gi": 15,
+    "gl": "Low",
+    "category": "Vegetable",
+    "local": true,
+    "avg_cost_per_portion": 20
+  },
+  {
+    "name": "Pumpkin",
+    "gi": 75,
+    "gl": "Medium",
+    "category": "Vegetable",
+    "local": true,
+    "avg_cost_per_portion": 30
+  },
+  {
+    "name": "Carrots",
+    "gi": 35,
+    "gl": "Low",
+    "category": "Vegetable",
+    "local": true,
+    "avg_cost_per_portion": 30
+  },
+  {
+    "name": "Almonds",
+    "gi": 0,
+    "gl": "Low",
+    "category": "Nut/Seed",
+    "local": false,
+    "avg_cost_per_portion": 150
+  },
+  {
+    "name": "Chia Seeds",
+    "gi": 1,
+    "gl": "Low",
+    "category": "Nut/Seed",
+    "local": false,
+    "avg_cost_per_portion": 120
+  },
+  {
+    "name": "Pumpkin Seeds",
+    "gi": 10,
+    "gl": "Low",
+    "category": "Nut/Seed",
+    "local": true,
+    "avg_cost_per_portion": 50
+  },
+  {
+    "name": "Greek Yogurt (Plain)",
+    "gi": 12,
+    "gl": "Low",
+    "category": "Dairy",
+    "local": false,
+    "avg_cost_per_portion": 80
+  },
+  {
+    "name": "Cottage Cheese",
+    "gi": 10,
+    "gl": "Low",
+    "category": "Dairy",
+    "local": false,
+    "avg_cost_per_portion": 90
+  },
+  {
+    "name": "Tofu",
+    "gi": 15,
+    "gl": "Low",
+    "category": "Protein",
+    "local": false,
+    "avg_cost_per_portion": 100
+  },
+  {
+    "name": "Salmon",
+    "gi": 0,
+    "gl": "Low",
+    "category": "Protein",
+    "local": false,
+    "avg_cost_per_portion": 300
+  },
+  {
+    "name": "Blueberries",
+    "gi": 53,
+    "gl": "Low",
+    "category": "Fruit",
+    "local": false,
+    "avg_cost_per_portion": 150
+  },
+  {
+    "name": "Strawberries",
+    "gi": 40,
+    "gl": "Low",
+    "category": "Fruit",
+    "local": false,
+    "avg_cost_per_portion": 120
+  },
+  {
+    "name": "Pear",
+    "gi": 38,
+    "gl": "Low",
+    "category": "Fruit",
+    "local": false,
+    "avg_cost_per_portion": 60
+  },
+  {
+    "name": "Papaya",
+    "gi": 59,
+    "gl": "Medium",
+    "category": "Fruit",
+    "local": true,
+    "avg_cost_per_portion": 40
+  },
+  {
+    "name": "Mango",
+    "gi": 51,
+    "gl": "Medium",
+    "category": "Fruit",
+    "local": true,
+    "avg_cost_per_portion": 50
+  },
+  {
+    "name": "Brown Rice",
+    "gi": 50,
+    "gl": "Low",
+    "category": "Grain",
+    "local": false,
+    "avg_cost_per_portion": 50
+  },
+  {
+    "name": "Barley",
+    "gi": 28,
+    "gl": "Low",
+    "category": "Grain",
+    "local": false,
+    "avg_cost_per_portion": 60
+  },
+  {
+    "name": "Chickpeas",
+    "gi": 28,
+    "gl": "Low",
+    "category": "Legume",
+    "local": true,
+    "avg_cost_per_portion": 40
   }
-]
+],
