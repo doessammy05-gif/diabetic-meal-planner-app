@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Brown Ugali",
+    "gi": 55,
+    "gl": "Low",
+    "category": "Grain",
+    "local": true,
+    "avg_cost_per_portion": 30
+  },
+  {
+    "name": "White Ugali",
+    "gi": 75,
+    "gl": "High",
+    "category": "Grain",
+    "local": true,
+    "avg_cost_per_portion": 20
+  },
+  {
+    "name": "Managu (African Nightshade)",
+    "gi": 15,
+    "gl": "Low",
+    "category": "Vegetable",
+    "local": true,
+    "avg_cost_per_portion": 40
+  },
+  {
+    "name,": "Terere (Amaranth Leaves)",
+    "gi": 15,
+    "gl": "Low",
+    "category": "Vegetable",
+    "local": true,
+    "avg_cost_per_portion": 40
+  },
+  {
+    "name": "Sukuma Wiki (Kale)",
+    "gi": 15,
+    "gl": "Low",
+    "category": "Vegetable",
+    "local": true,
+    "avg_cost_per_portion": 30
+  },
+  {
+    "name": "Tilapia",
+    "gi": 0,
+    "gl": "Low",
+    "category": "Protein",
+    "local": true,
+    "avg_cost_per_portion": 150
+  },
+  {
+    "name": "Boiled Eggs",
+    "gi": 0,
+    "gl": "Low",
+    "category": "Protein",
+    "local": true,
+    "avg_cost_per_portion": 25
+  },
+  {
+    "name": "Avocado",
+    "gi": 15,
+    "gl": "Low",
+    "category": "Fruit/Fat",
+    "local": true,
+    "avg_cost_per_portion": 40
+  },
+  {
+    "name": "Sweet Potatoes",
+    "gi": 54,
+    "gl": "Low",
+    "category": "Tuber",
+    "local": true,
+    "avg_cost_per_portion": 30
+  },
+  {
+    "name": "Cassava",
+    "gi": 60,
+    "gl": "Medium",
+    "category": "Tuber",
+    "local": true,
+    "avg_cost_per_portion": 30
+  },
+  {
+    "name": "White Rice",
+    "gi": 73,
+    "gl": "High",
+    "category": "Grain",
+    "local": false,
+    "avg_cost_per_portion": 40
+  },
+  {
+    "name": "Quinoa",
+    "gi": 53,
+    "gl": "Low",
+    "category": "Grain",
+    "local": false,
+    "avg_cost_per_portion": 150
+  },
+  {
+    "name": "Oats",
+    "gi": 55,
+    "gl": "Low",
+    "category": "Grain",
+    "local": false,
+    "avg_cost_per_portion": 60
+  },
+  {
+    "name": "Apple",
+    "gi": 39,
+    "gl": "Low",
+    "category": "Fruit",
+    "local": false,
+    "avg_cost_per_portion": 50
+  },
+  {
+    "name": "Banana",
+    "gi": 51,
+    "gl": "Low/Medium",
+    "category": "Fruit",
+    "local": true,
+    "avg_cost_per_portion": 10
+  },
+  {
+    "name": "Watermelon",
+    "gi": 72,
+    "gl": "High",
+    "category": "Fruit",
+    "local": true,
+    "avg_cost_per_portion": 30
+  },
+  {
+    "name": "Chicken Breast",
+    "gi": 0,
+    "gl": "Low",
+    "category": "Protein",
+    "local": true,
+    "avg_cost_per_portion": 120
+  },
+  {
+    "name": "Lentils (Kamande)",
+    "gi": 32,
+    "gl": "Low",
+    "category": "Legume",
+    "local": true,
+    "avg_cost_per_portion": 40
+  },
+  {
+    "name": "Beans (Nyayo/Yellow)",
+    "gi": 30,
+    "gl": "Low",
+    "category": "Legume",
+    "local": true,
+    "avg_cost_per_portion": 30
+  }
+]
